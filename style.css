@@ -1,0 +1,95 @@
+body{
+    font-family: Roboto, "Lucida Fax", "sans-serif";
+}
+
+nav{
+    display: flex;
+    position: static;
+    background-color: transparent;
+    height: 75px;
+    margin-top: 20px;
+}
+
+#logo{
+    margin-left: 25px;
+    margin-right: 750px;
+}
+
+#navul{
+    list-style: none;
+}
+
+#navul li{
+    display: inline-block;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+#navul li:hover{
+    color: #333;
+}
+
+#signin{
+    border: 0.5px solid rgba(54, 54, 54, 0.25);
+    border-radius: 17.5px;
+    width: 80px;
+    height: 35px;
+    font-size: 15px;
+    background-color: transparent;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+#signin:hover{
+    background-color: rgba(158, 158, 158, 0.25);
+}
+
+.div1{
+    position: relative;
+    top: 100px;
+    background-color: #017143;
+    height: 400px;
+    width: 1300px;
+}
+
+#coffee{
+    float: right;
+    position: relative;
+    top: -40px;
+    right: 20px;
+}
+
+#p1{
+    position: absolute;
+    left: 40px;
+    font-size: 50px;
+    color: white;
+}
+
+#p2{
+    position: absolute;
+    left: 40px;
+    top: 120px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+#learnmore{ 
+    position: absolute;
+    top: 325px;
+    border: 0.5px solid rgba(54, 54, 54, 0.5);
+    border-radius: 17.5px;
+    width: 150px;
+    left: 40px;
+    height: 35px;
+    font-family: Roboto;
+    font-size: 15px;
+    background-color: #ffffff;
+    cursor: pointer;
+    transition-duration: 0.25s;
+}
+
+#learnmore:hover{
+    background-color: rgb(197, 247, 207);
+}
