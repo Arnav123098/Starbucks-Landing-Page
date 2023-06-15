@@ -3,7 +3,7 @@
 
 A Starbucks Landing Page HTML, CSS project.
 
-[View on Codepen](https://codepen.io/Arnav-Mishra/pen/QWJbwjB)
+[View Live](https://starbucksclonepage.netlify.app)
 
 
 ## Author
