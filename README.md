@@ -2,10 +2,7 @@
 # Starbucks Landing Page
 
 A Starbucks Landing Page HTML, CSS project.
-*Not Responsive*
-
-[View Live](https://starbucksclonepage.netlify.app)
-
+*Unresponsive*
 
 ## Author
 
